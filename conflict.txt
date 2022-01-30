@@ -1,2 +1,2 @@
-first line in develop-final
-second line from conflict
+first line in develop-final - new
+second line from conflict-new
